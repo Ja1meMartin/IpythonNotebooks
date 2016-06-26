@@ -1,0 +1,107 @@
+body {
+	margin: 0; 
+	xpadding: 74px 0 0 120px; 
+	padding-top: 74px;
+	color: #000; 
+	background: #fff; 
+	font-size: 0.75em; 
+} 
+
+div {
+	font-size: 0.75em;
+}
+
+div#header { 
+overflow: hidden;
+  width: 100%; 
+  height: 74px; 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  background: #ddd; 
+  border-bottom: 2px solid #036;
+} 
+
+#searchbox {
+	border: 2px solid #036;
+	font-size: 8pt;
+	padding-left: 4px;
+	padding-right: 4px;
+	background-color: #fff;
+	margin: 4px;
+}
+
+
+div#leftmargin { 
+overflow: hidden; 
+  width: 120px; 
+  height: 100%; 
+  position: absolute; 
+  top: 76px; 
+  left: 0; 
+   color: #000; 
+   background: #fff; 
+   padding: 4px;
+   font-size: 1.4em;
+} 
+
+
+div#content 
+   { 
+   padding-left: 140px;
+   padding-top: 10px;
+   padding-right: 10px;
+
+    } 
+  
+#pagetext {
+	float:left;
+   text-align: justify;
+}
+  
+div#footer { 
+  margin-top: 10px;
+  width: 100%;
+  padding: 2px;
+  background: #ddd; 
+  border-top: 2px solid #036;
+  font-size: 1em;
+}   
+  
+@media screen { 
+	body>div#footer  { 
+		position: fixed; 
+    } 
+} 
+
+
+
+body,td,p {
+	font-family: Trebuchet MS, Arial, Helvetica, Sans-serif;
+}
+
+h1,h2,h3,h4 {
+	font-size: 1.3em;
+}
+
+hr {
+	color: #036;
+}
+
+.maintitle {
+	color: #036;
+	font-weight: bold;
+	font-size: 9pt;
+}
+
+
+a:link {
+	color: #036;
+}
+a:hover {
+	color: #00F;
+}
+a:visited {
+	color: #006;
+}
+
