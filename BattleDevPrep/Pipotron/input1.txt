@@ -1,0 +1,16 @@
+3
+2 3 4
+je suis venu
+je suis parti de
+chez toi
+chez moi
+a la maison
+en voiture.
+en train.
+en metro.
+a cheval.
+4
+je suis venu chez toi en train.
+je suis venu a cheval. a la maison
+je suis venu en train
+je suis parti de chez moi en metro.

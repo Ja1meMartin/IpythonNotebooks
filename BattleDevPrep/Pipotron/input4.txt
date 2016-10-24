@@ -1,0 +1,52 @@
+5
+7 6 5 4 3
+do
+re
+mi
+fa
+sol
+la
+si
+do
+re
+fa
+sol
+la
+si
+re
+fa
+sol
+la
+si
+do do
+re
+fa
+sol
+re
+fa
+sol
+24
+fa re la fa re
+fa la re fa fa
+la fa re re re
+mi do la fa sol
+fa do la fa sol
+fa do re re fa
+si sol re sol fa
+la do si sol sol
+re si sol fa fa
+re re sol re fa
+sol re si do do re
+si si fa fa do
+si si si sol sol
+do sol la re fa
+re sol la re sol
+la fa sol sol fa
+re si la do do fa
+mi sol do sol sol
+fa re sol re fa
+mi re si sol re
+fa si sol do do re
+re re re sol fa
+la re sol fa do
+mi re sol fa fa
